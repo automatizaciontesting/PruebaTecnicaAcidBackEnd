@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Realizar pruebas backend API jsonplaceholder.typicode.com" skipped="0" tests="1" time="4.85" timestamp="2023-06-05 10:36:29"><testcase name="Crear titulo y validar el statusCode"/></testsuite>

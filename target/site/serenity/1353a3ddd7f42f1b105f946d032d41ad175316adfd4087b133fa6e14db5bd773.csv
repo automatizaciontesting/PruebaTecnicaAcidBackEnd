@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Realizar pruebas backend API jsonplaceholder.typicode.com","Crear titulo y validar el statusCode","FAILURE","2023-06-05T10:36:13.645685-05:00[America/Bogota]","0.0","5.29"
